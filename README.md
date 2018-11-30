@@ -1,3 +1,3 @@
-# simple mailing
+# Simple Mailing
 
-Mail stworzony przy współpracy z firmą Imagination.
+Mail created in cooperation with Imagination Company.
